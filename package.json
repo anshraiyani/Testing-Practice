@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "testing practice project on TheOdinProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshraiyani/Testing-Practice.git"
+  },
+  "author": "anshraiyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshraiyani/Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/anshraiyani/Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.1",
+    "@babel/preset-env": "^7.22.4",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
